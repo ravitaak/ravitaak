@@ -1,5 +1,9 @@
+![logo](https://github.com/ravitaak/ravitaak/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Ravi Taak</h1>
 <h3 align="center">A passionate backend & app developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhswaKvw-jyeK5-Q4hRQbmAefi_ErKz8N1zQoLTSXsbq0i8IElOJUtjCN-dRXoAo6FAuvOBKoMXeucVf4RhhjuKSJUjSyEiEqWbfnvg1vR6bWJRXqPBYn6yzHp-b6ABt3_0LhUqU8h9oggUI8XUMfok5s1ZBSnG6qtADUv7BGUPYt0j2Tc0VZ2ViWR8jg/s1600/programmer.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravitaak&label=Profile%20views&color=0e75b6&style=flat" alt="ravitaak" /> </p>
 
 - 🔭 I’m currently working on **Chat App**
 
