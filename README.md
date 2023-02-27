@@ -1,9 +1,9 @@
 ![logo](https://github.com/ravitaak/ravitaak/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Ravi Taak</h1>
 <h3 align="center">A passionate backend & app developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhswaKvw-jyeK5-Q4hRQbmAefi_ErKz8N1zQoLTSXsbq0i8IElOJUtjCN-dRXoAo6FAuvOBKoMXeucVf4RhhjuKSJUjSyEiEqWbfnvg1vR6bWJRXqPBYn6yzHp-b6ABt3_0LhUqU8h9oggUI8XUMfok5s1ZBSnG6qtADUv7BGUPYt0j2Tc0VZ2ViWR8jg/s1600/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgENakgqeh_NCxt5AdJrr0Ocy9cpDM0QqJugJ5JVe9BW-ORBPLjVNwy5GnwLYRDtFTFIyxQ2g6EaRlIPUlREbmGrs1kHcnZktUyOhY5fx6C6_dLVTn4kh0JyGeWaHoI7w8hNAoZ5rm3nEipAwhKZoxtKjhTCaiTAbTMkxCvrFdLNtox3v2TUoqSnWOtrQ/s1600/output-onlinegiftools.gif" style="border-radius:70%">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravitaak&label=Profile%20views&color=0e75b6&style=flat" alt="ravitaak" /> </p>
+<p align="left"> <img  src="https://komarev.com/ghpvc/?username=ravitaak&label=Profile%20views&color=0e75b6&style=flat" alt="ravitaak" /> </p>
 
 - 🔭 I’m currently working on **Chat App**
 
@@ -30,7 +30,7 @@
 <p><a href="https://www.buymeacoffee.com/ravitaak"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ravitaak" /></a><a href="https://ko-fi.com/ravitaak"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ravitaak" /></a></p><br><br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravitaak&show_icons=true&locale=en&layout=compact" alt="ravitaak" /></p>
-<br>
+<br><br><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravitaak&show_icons=true&locale=en" alt="ravitaak" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravitaak&" alt="ravitaak" /></p>
