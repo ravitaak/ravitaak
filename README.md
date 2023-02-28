@@ -15,12 +15,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/ravitaak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ravitaak" height="30" width="40" /></a>
+<a href="https://dev.to/ravitaak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ravitaak" height="30" width="40" /></a>
 <a href="https://twitter.com/itsravitaak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsravitaak" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ravitaak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravitaak" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21090953" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21090953" height="30" width="40" /></a>
 <a href="https://fb.com/ravi.taak.xd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravi.taak.xd" height="30" width="40" /></a>
 <a href="https://instagram.com/iamravitaak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamravitaak" height="30" width="40" /></a>
+<a href="https://medium.com/@ravitaak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ravitaak" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ravitaak5317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ravitaak5317" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ravitaakbirmana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ravitaakbirmana" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ravitaak/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ravitaak/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
